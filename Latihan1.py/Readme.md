@@ -1,1 +1,5 @@
-
+- Program meminta pengguna memasukkan nilai N
+- Menghasilkan angka acak menggunakan random()
+- Hanya angka di bawah 0.5 yang dihitung sebagai data sah
+- Jika angka ≥ 0.5, diabaikan dan program mencari angka baru
+- Menggunakan while seperti yang dianjurkan
