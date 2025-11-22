@@ -63,15 +63,5 @@ print("Total laba adalah:", total_laba)
 
 Menampilkan total semua laba selama 8 bulan.
 
----
-
-# 🟩 **Ringkasan Latihan 2**
-
-Program menghitung laba tiap bulan berdasarkan aturan, lalu menjumlahkannya hingga total 8 bulan.
-
----
-
----
-
 
 
